@@ -262,7 +262,7 @@ header
 .header-area .main-nav .logo {
   line-height: 100px;
   color: #fff;
-  font-size: 28px;
+  font-size: 18px;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -701,7 +701,7 @@ banner
 .main-banner .caption h2 {
   margin-top: 20px;
   margin-bottom: 20px;
-  font-size: 36px;
+  font-size: 26px;
   text-transform: uppercase;
   font-weight: 800;
   color: #fff;
@@ -731,7 +731,7 @@ banner
   }
 
   .main-banner .caption h2 {
-    font-size: 36px;
+    font-size: 26px;
   }
 
 }
@@ -1742,7 +1742,7 @@ responsive
   .main-banner .caption h2 {
     margin-top: 10px;
     margin-bottom: 10px;
-    font-size: 22px;
+    font-size: 18px;
   }
 
   .main-banner .caption .main-button-red {
